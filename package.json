@@ -1,0 +1,13 @@
+{
+  "name": "github-app",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Консольное приложение, которое в качестве аргумента командной строки принимает имя пользователя GitHub и выводит список репозиториев этого пользователя.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alexander Samak",
+  "license": "ISC"
+}
